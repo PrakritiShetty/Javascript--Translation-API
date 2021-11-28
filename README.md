@@ -1,2 +1,2 @@
 # Javascript- Translation API
- Using vanilla JS to create an english-to-minion language translation web app
+ Using Vanilla JS to create an English-to-Minion language translation web app
