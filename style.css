@@ -1,0 +1,12 @@
+.button{
+    padding:1rem;
+    background-color:yellow;
+    border-radius: 0.5rem;
+    
+}
+#txtInput1{
+    padding: 2 rem;
+    width: 50rem;
+    height:10rem;
+
+}
