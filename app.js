@@ -7,7 +7,7 @@ console.log(txtInput2);
 //var output= document.querySelector(".output")
 
 //hey browser, on a click, this is what u have to do
-btnclick= addEventListener("click",clickHandler);
+btnclick.addEventListener("click",clickHandler);
 //console.log(txtInput)    (wrong coz this doesnt execute on clicking- clickhandler does) 
 
 function clickHandler()
